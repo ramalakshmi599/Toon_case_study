@@ -1,0 +1,24 @@
+BOUWJAAR_PAND;year of construction for residence of customer
+VLOEROPPERVLAK_VERBLIJFSOBJECT;surface area of residence of customer
+age;customer age
+app_advance_payment_adjustment_last_year;customer has adjusted information about advance payments in app
+app_check_advance_payment_last_year;customer has checked information about advance payments in app
+app_determine_day_of_payment_last_year;customer has used app to determine day of payment
+app_mandate_no_last_year;customer declined mandate for data use in app
+app_mandate_yes_last_year;customer accepted mandate for data use in app
+app_transaction_request_last_year;customer has made transaction request using the app
+bought_toon;customer has bought a Toon smart thermostat (target column)
+electricity_annual_consumption_estimated_offpeak;estimated annual electricity consumption during off peak hours
+electricity_annual_consumption_estimated_peak;estimated annual electricity consumption during peak hours
+electricity_annual_consumption_estimated_total;estimated annual electricity consumption
+electricity_last_contract_annual_consumption_estimated_offpeak;estimated annual electricity consumption during off peak hours for last contract
+electricity_last_contract_annual_consumption_estimated_peak;estimated annual electricity consumption for last contract
+electricity_last_contract_annual_consumption_estimated_total;estimated annual electricity consumption for last contract
+electricity_last_contract_term;The term duration of the customer's last electricity contract
+gas_annual_consumption_estimated;estimated annual gas consumption
+gas_last_contract_annual_consumption_estimated;estimated annual gas consumption for last contract
+has_active_boiler_rent_contract;customer has an active boiler rent contract
+has_active_electricity_contract;customer has active electricity contract
+has_phone_number;customer has phone number
+province;Province customer lives in
+web_os_other_last_year;"customer has accessed the website using a OS of type ""other"""
